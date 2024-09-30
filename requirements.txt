@@ -1,0 +1,4 @@
+opencv-python
+tinydb
+PyQt5
+face-recognition
